@@ -38,9 +38,10 @@
 ## 6. ETC
 ----
 - **Certificates**
-    - Neural Networks and Deep Learning (2026)  
-    - Fundamentals of Accelerated Computing with CUDA C/C++ (2027)
+    * Neural Networks and Deep Learning (2026)  
+    * Fundamentals of Accelerated Computing with CUDA C/C++ (2027)
 
 - **Awards**
-    - 광운대학교 학술대회 우수 논문상 (2027)  
-    - 우아한테크코스 해커톤 2등 (2026)
+    * Top 20, @[OSS](https://www.oss.kr/), Seoul, _S.Korea_ (2027)
+      Open Source Software Developers Challenge 
+    * 우아한테크코스 해커톤 2등 (2026)
