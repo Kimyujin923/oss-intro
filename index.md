@@ -36,11 +36,11 @@
 
 ## 6. ETC
 ----
-- **자격증**
-    - 정보처리기사 (2025.06)  
-    - 데이터 분석 준전문가(ADsP) (2026.01)  
-    - TensorFlow Developer Certification (2027.02)  
+- **Certificates**
+    - 정보처리기사
+    - 데이터 분석 준전문가(ADsP) 
+    - TensorFlow Developer Certification
 
-- **수상 내역**
+- **Awards**
     - 광운대학교 학술대회 우수 논문상 (2027)  
     - 우아한테크코스 해커톤 2등 (2026)
