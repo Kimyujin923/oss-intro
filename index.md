@@ -44,4 +44,4 @@
 - **Awards**
     * Top 20, @[OSS](https://www.oss.kr/), Seoul, _S.Korea_ (2027)  
       Open Source Software Developers Challenge 
-    * 우아한테크코스 해커톤 2등 (2026)
+    * 우아한테크코스 해커톤 2등 (2028)
