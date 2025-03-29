@@ -38,9 +38,8 @@
 ## 6. ETC
 ----
 - **Certificates**
-    - 정보처리기사
-    - 데이터 분석 준전문가(ADsP) 
-    - TensorFlow Developer Certification
+    - Neural Networks and Deep Learning (2026)  
+    - Fundamentals of Accelerated Computing with CUDA C/C++ (2027)
 
 - **Awards**
     - 광운대학교 학술대회 우수 논문상 (2027)  
