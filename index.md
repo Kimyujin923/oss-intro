@@ -44,3 +44,7 @@
 - **Awards**
     * Top 20, @[OSS](https://www.oss.kr/), Seoul, _S.Korea_ (2027)  
       Open Source Software Developers Challenge
+
+## 추천인
+---
+광운대학교 정보융합학부 박규동 교수
